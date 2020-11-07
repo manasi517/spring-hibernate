@@ -1,0 +1,10 @@
+com\mindtree\dao\DaoImpl.class
+com\mindtree\entity\EmployeeDetails.class
+com\mindtree\entity\TaskDetails.class
+com\mindtree\service\ServiceInterface.class
+com\mindtree\entity\TaskViewDto.class
+myServlet\TestClass.class
+com\mindtree\dao\DaoInterface.class
+myServlet\ControllerClass.class
+com\mindtree\service\ServiceImpl.class
+com\mindtree\entity\ProjectDetails.class
