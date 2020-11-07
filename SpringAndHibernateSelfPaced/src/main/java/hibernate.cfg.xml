@@ -27,9 +27,9 @@
     <property name="show_sql">true</property>
          <!-- <property name="hbm2ddl.auto">update</property> -->
          <property name="hibernate.hbm2ddl.auto">update</property>
-         <mapping class="com.mindtree.entity.EmployeeDetails" />
-         <mapping class="com.mindtree.entity.ProjectDetails" />
-         <mapping class="com.mindtree.entity.TaskDetails" />
+         <mapping class="com.spring.entity.EmployeeDetails" />
+         <mapping class="com.spring.entity.ProjectDetails" />
+         <mapping class="com.spring.entity.TaskDetails" />
                 
     </session-factory>
 </hibernate-configuration>

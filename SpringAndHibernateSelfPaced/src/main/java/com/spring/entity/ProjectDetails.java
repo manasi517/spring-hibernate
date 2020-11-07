@@ -1,4 +1,4 @@
-package com.mindtree.entity;
+package com.spring.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

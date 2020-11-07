@@ -1,4 +1,4 @@
-package com.mindtree.dao;
+package com.spring.dao;
 
 import java.util.List;
 
@@ -8,9 +8,9 @@ import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 import org.springframework.stereotype.Repository;
 
-import com.mindtree.entity.EmployeeDetails;
-import com.mindtree.entity.ProjectDetails;
-import com.mindtree.entity.TaskDetails;
+import com.spring.entity.EmployeeDetails;
+import com.spring.entity.ProjectDetails;
+import com.spring.entity.TaskDetails;
 
 @Repository
 public class DaoImpl implements DaoInterface{

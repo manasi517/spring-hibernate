@@ -1,4 +1,4 @@
-package com.mindtree.service;
+package com.spring.service;
 
 import java.util.Date;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
-import com.mindtree.entity.ProjectDetails;
+import com.spring.entity.ProjectDetails;
 
 @Service
 @Component

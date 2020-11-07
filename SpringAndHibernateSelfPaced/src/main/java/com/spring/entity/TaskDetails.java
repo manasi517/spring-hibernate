@@ -1,4 +1,4 @@
-package com.mindtree.entity;
+package com.spring.entity;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

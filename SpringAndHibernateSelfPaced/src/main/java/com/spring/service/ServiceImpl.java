@@ -1,4 +1,4 @@
-package com.mindtree.service;
+package com.spring.service;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
@@ -14,12 +14,12 @@ import org.hibernate.cfg.Configuration;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mindtree.dao.DaoImpl;
-import com.mindtree.dao.DaoInterface;
-import com.mindtree.entity.EmployeeDetails;
-import com.mindtree.entity.ProjectDetails;
-import com.mindtree.entity.TaskDetails;
-import com.mindtree.entity.TaskViewDto;
+import com.spring.dao.DaoImpl;
+import com.spring.dao.DaoInterface;
+import com.spring.entity.EmployeeDetails;
+import com.spring.entity.ProjectDetails;
+import com.spring.entity.TaskDetails;
+import com.spring.entity.TaskViewDto;
 
 @Service
 public class ServiceImpl implements ServiceInterface{

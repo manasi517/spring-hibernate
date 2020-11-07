@@ -8,11 +8,11 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 
-import com.mindtree.dao.DaoImpl;
-import com.mindtree.entity.EmployeeDetails;
-import com.mindtree.entity.ProjectDetails;
-import com.mindtree.entity.TaskDetails;
-import com.mindtree.service.ServiceImpl;
+import com.spring.dao.DaoImpl;
+import com.spring.entity.EmployeeDetails;
+import com.spring.entity.ProjectDetails;
+import com.spring.entity.TaskDetails;
+import com.spring.service.ServiceImpl;
 
 public class TestClass {
 

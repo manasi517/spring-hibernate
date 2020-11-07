@@ -36,11 +36,11 @@ import org.springframework.web.servlet.ModelAndView;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.google.gson.Gson;
-import com.mindtree.entity.EmployeeDetails;
-import com.mindtree.entity.TaskDetails;
-import com.mindtree.entity.TaskViewDto;
-import com.mindtree.service.ServiceImpl;
-import com.mindtree.service.ServiceInterface;
+import com.spring.entity.EmployeeDetails;
+import com.spring.entity.TaskDetails;
+import com.spring.entity.TaskViewDto;
+import com.spring.service.ServiceImpl;
+import com.spring.service.ServiceInterface;
 
 @Controller
 public class ControllerClass {
